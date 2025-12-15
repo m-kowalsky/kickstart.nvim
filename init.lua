@@ -1023,4 +1023,4 @@ vim.keymap.set('n', '<leader>Y', [["+Y]])
 
 vim.keymap.set('n', '<leader>ee', 'oif err != nil {<CR>}<Esc><Esc>O')
 -- vim.keymap.set('i', '<C-S-;>', '<Esc><S-a>;')
-vim.keymap.set('i', '<PageDown>', '<Esc><S-a>;')
+vim.keymap.set('i', '<PageDown>', '<Esc><S-a>')
